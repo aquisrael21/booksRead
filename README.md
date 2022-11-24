@@ -95,6 +95,18 @@ A Code of Conduct for Professional Programmers<br>
 - **Code Complete** <br>
 ![enter image description here](https://images-na.ssl-images-amazon.com/images/I/41nvEPEagML._SX408_BO1,204,203,200_.jpg)<br>
 [Book Details](https://www.amazon.com.mx/Code-Complete-Steve-McConnell/dp/0735619670/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1OQV1RXPK425H&keywords=code+complete&qid=1658418523&sprefix=code+complete%2Caps%2C162&sr=8-1)
+<br><br>
+
+- **Clean Agile** <br>
+ Back to the Basics <br>
+![enter image description here](https://m.media-amazon.com/images/I/416ishNzDYL._SL500_.jpg)<br>
+[Book Details](https://www.amazon.com.mx/Clean-Agile-Basics-Robert-Martin/dp/0135781868/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=18PYTY8J1UNJP&keywords=clean+agile&qid=1669272048&qu=eyJxc2MiOiIwLjQzIiwicXNhIjoiMC4zMiIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=clean+agil%2Caps%2C190&sr=8-1)
+<br><br>
+
+- **Software Engineering at Google** <br>
+ Lessons Learned from Programming Over Time <br>
+![enter image description here](https://m.media-amazon.com/images/I/51qxBkkwLpL._SL500_.jpg)<br>
+[Book Details](https://www.amazon.com.mx/Software-Engineering-Google-Lessons-Programming/dp/1492082791/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2J6YML3VN2FO7&keywords=Software+Engineering+at+Google&qid=1669272220&qu=eyJxc2MiOiIwLjMyIiwicXNhIjoiMC4xNiIsInFzcCI6IjAuMzUifQ%3D%3D&sprefix=software+engineering+at+google%2Caps%2C165&sr=8-1)
 <br>
 
 ## Business & Careers
