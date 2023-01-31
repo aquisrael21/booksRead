@@ -79,7 +79,6 @@ Design, Technology, Business, Life
 ![enter image description here](https://m.media-amazon.com/images/I/415Chmr965L._SX331_BO1,204,203,200_.jpg)<br>
 
 [Book Details](https://www.amazon.com.mx/Laws-Simplicity-Design-Technology-Business/dp/0262539470/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3EAYJS23IH57Y&keywords=The+Laws+of+Simplicity&qid=1675182032&sprefix=the+laws+of+simplicity%2Caps%2C139&sr=8-1)
-
 <br><br>
 
 - **Ultralearning** <br>
@@ -88,7 +87,6 @@ Master Hard Skills, Outsmart the Competition, and Accelerate Your Career
 ![enter image description here](https://m.media-amazon.com/images/I/51D5dwBcSFL._SL500_.jpg)<br>
 
 [Book Details](https://www.amazon.com.mx/Ultralearning-Master-Outsmart-Competition-Accelerate/dp/006285268X/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=23SAQ0Z2PO2FV&keywords=Ultralearning&qid=1675182193&sprefix=ultralearning%2Caps%2C138&sr=8-1)
-
 <br>
 
 ## Technology
