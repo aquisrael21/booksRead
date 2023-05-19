@@ -35,6 +35,26 @@ The New Science of a Lost Art<br>
 Lose Weight, Supercharge Your Energy and Sleep Well Every Night<br>
 ![enter image description here](https://m.media-amazon.com/images/I/51s88yD2xBL._SL500_.jpg)<br>
 [Book Details](https://www.amazon.com.mx/Circadian-Code-Supercharge-Transform-Midnight/dp/163565243X/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3942NVJX9P13R&keywords=The+Circadian+Code&qid=1658418026&sprefix=the+circadian+code%2Caps%2C198&sr=8-1)
+<br><br>
+
+- **Endure**  <br>
+
+How to Work Hard, Outlast, and Keep Hammering<br>
+
+![enter image description here](https://m.media-amazon.com/images/I/51+7LvdQM2L._SL500_.jpg)<br>
+
+[Book Details](https://www.amazon.com.mx/Endure-Work-Hard-Outlast-Hammering/dp/1250279291/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3T5AHCFM5O589&keywords=Endure+How+to+Work+Hard%2C+Outlast%2C+and+Keep+Hammering&qid=1684459817&sprefix=endure+how+to+work+hard+outlast+and+keep+hammering%2Caps%2C140&sr=8-1)
+
+<br><br>
+
+- **Discipline Is Destiny**  <br>
+
+The Power of Self-Control<br>
+
+![enter image description here](https://m.media-amazon.com/images/I/51LgzyHtQQL._SL500_.jpg)<br>
+
+[Book Details](https://www.amazon.com.mx/Discipline-Destiny-Self-Control-Ryan-Holiday/dp/0593191692/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=R2NE21YF25FC&keywords=Discipline+Is+Destiny+The+Power+of+Self-Control&qid=1684460083&sprefix=discipline+is+destiny+the+power+of+self-control%2Caps%2C212&sr=8-1)
+
 <br>
 
 ## Productivity
@@ -123,6 +143,16 @@ A Code of Conduct for Professional Programmers<br>
  Lessons Learned from Programming Over Time <br>
 ![enter image description here](https://m.media-amazon.com/images/I/51qxBkkwLpL._SL500_.jpg)<br>
 [Book Details](https://www.amazon.com.mx/Software-Engineering-Google-Lessons-Programming/dp/1492082791/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2J6YML3VN2FO7&keywords=Software+Engineering+at+Google&qid=1669272220&qu=eyJxc2MiOiIwLjMyIiwicXNhIjoiMC4xNiIsInFzcCI6IjAuMzUifQ%3D%3D&sprefix=software+engineering+at+google%2Caps%2C165&sr=8-1)
+<br><br>
+
+- **Clean Architecture**  <br>
+
+A Craftsman's Guide to Software Structure and Design<br>
+
+![enter image description here](https://m.media-amazon.com/images/I/51ev4PLtsML._SL500_.jpg)<br>
+
+[Book Details](https://www.amazon.com.mx/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=331O2ST6GO6S2&keywords=Clean+Architecture+A+Craftsman%27s+Guide+to+Software+Structure+and+Design&qid=1684460201&sprefix=clean+architecture+a+craftsman%27s+guide+to+software+structure+and+design%2Caps%2C148&sr=8-1)
+
 <br>
 
 ## Business & Careers
