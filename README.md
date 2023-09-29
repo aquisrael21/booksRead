@@ -55,6 +55,11 @@ The Power of Self-Control<br>
 
 [Book Details](https://www.amazon.com.mx/Discipline-Destiny-Self-Control-Ryan-Holiday/dp/0593191692/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=R2NE21YF25FC&keywords=Discipline+Is+Destiny+The+Power+of+Self-Control&qid=1684460083&sprefix=discipline+is+destiny+the+power+of+self-control%2Caps%2C212&sr=8-1)
 
+<br><br>
+
+- **Greenlights** <br>  
+![enter image description here](https://m.media-amazon.com/images/I/51DZeZw7K0L._SL500_.jpg)<br>  
+[Book Details](https://www.amazon.com.mx/Greenlights-Matthew-McConaughey/dp/0593139135/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=greenlights&qid=1695966725&sr=8-1&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47)  
 <br>
 
 ## Productivity
@@ -153,6 +158,16 @@ A Craftsman's Guide to Software Structure and Design<br>
 
 [Book Details](https://www.amazon.com.mx/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=331O2ST6GO6S2&keywords=Clean+Architecture+A+Craftsman%27s+Guide+to+Software+Structure+and+Design&qid=1684460201&sprefix=clean+architecture+a+craftsman%27s+guide+to+software+structure+and+design%2Caps%2C148&sr=8-1)
 
+<br><br>
+
+- **The Beginners Guide to Artificial Intelligence** <br>Demystifying the World of AI for Everyone
+![enter image description here](https://m.media-amazon.com/images/I/51m-SzqjfYL._SL500_.jpg)<br>  
+[Book Details](https://www.amazon.com.mx/Beginners-Guide-Artificial-Intelligence-Demystifying/dp/B0BW2BX65S/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=38NZDVY8NWR34&keywords=The+Beginners+Guide+to+Artificial+Intelligence+Demystifying+the+World+of+AI+for+Everyone&qid=1695967301&sprefix=the+beginners+guide+to+artificial+intelligence+demystifying+the+world+of+ai+for+everyone%2Caps%2C286&sr=8-1&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47)  
+<br><br>
+
+- **The Unicorn Project** <br> A Novel About Developers, Digital Disruption, and Thriving in the Age of Data
+![enter image description here](https://m.media-amazon.com/images/I/51+3lvlXNuL._SL500_.jpg)<br>  
+[Book Details](https://www.amazon.com.mx/Unicorn-Project-Developers-Disruption-Thriving/dp/1942788762/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1X5VPDKKSQD5U&keywords=The+Unicorn+Project+A+Novel+About+Developers%2C+Digital+Disruption%2C+and+Thriving+in+the+Age+of+Data&qid=1695967501&sprefix=the+unicorn+project+a+novel+about+developers+digital+disruption+and+thriving+in+the+age+of+data%2Caps%2C298&sr=8-1&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47)  
 <br>
 
 ## Business & Careers
