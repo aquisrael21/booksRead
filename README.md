@@ -223,7 +223,7 @@ The Power of Thinking Without Thinking<br>
 Communicate with Stakeholders, Keep <br>
 Your Sanity, and Deliver the Best User Experience<br>  
 ![enter image description here](https://m.media-amazon.com/images/I/51BIa1PQtGS._SL500_.jpg)<br>  
-[Book Details](https://www.amazon.com.mx/Articulating-Design-Decisions-Communicate-Stakeholders/dp/1492079227/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1BV39IWSQ1PTQ&keywords=Articulating+Design+Decisions&qid=1703023044&sprefix=articulating+design+decisions%2Caps%2C340&sr=8-1&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47)  
+[Book Details](https://www.amazon.com.mx/Articulating-Design-Decisions-Communicate-Stakeholders/dp/1492079227/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Articulating+Design+Decisions&qid=1703023521&sr=8-1&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47)  
 <br>
 
 ## Science Fiction
