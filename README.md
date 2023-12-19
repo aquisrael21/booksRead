@@ -160,7 +160,7 @@ A Craftsman's Guide to Software Structure and Design<br>
 
 <br><br>
 
-- **The Beginners Guide to Artificial Intelligence** <br>Demystifying the World of AI for Everyone
+- **The Beginners Guide to Artificial Intelligence** <br>Demystifying the World of AI for Everyone<br>
 ![enter image description here](https://m.media-amazon.com/images/I/51m-SzqjfYL._SL500_.jpg)<br>  
 [Book Details](https://www.amazon.com.mx/Beginners-Guide-Artificial-Intelligence-Demystifying/dp/B0BW2BX65S/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=38NZDVY8NWR34&keywords=The+Beginners+Guide+to+Artificial+Intelligence+Demystifying+the+World+of+AI+for+Everyone&qid=1695967301&sprefix=the+beginners+guide+to+artificial+intelligence+demystifying+the+world+of+ai+for+everyone%2Caps%2C286&sr=8-1&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47)  
 <br><br>
@@ -173,7 +173,7 @@ A Craftsman's Guide to Software Structure and Design<br>
 - **Data Science** <br>  
 <br>  
 ![enter image description here](https://m.media-amazon.com/images/I/51vyR8siJJL._SL500_.jpg)<br>  
-[Book Details](https://www.amazon.com.mx/Data-Science-John-D-Kelleher/dp/0262535432/ref=sr_1_9?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1TD3P5S9K2Z3O&keywords=Data+Science&qid=1703022738&sprefix=data+science%2Caps%2C235&sr=8-9)  
+[Book Details]()  
 <br>
 
 ## Business & Careers
