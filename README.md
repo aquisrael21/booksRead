@@ -170,8 +170,7 @@ A Craftsman's Guide to Software Structure and Design<br>
 [Book Details](https://www.amazon.com.mx/Unicorn-Project-Developers-Disruption-Thriving/dp/1942788762/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1X5VPDKKSQD5U&keywords=The+Unicorn+Project+A+Novel+About+Developers%2C+Digital+Disruption%2C+and+Thriving+in+the+Age+of+Data&qid=1695967501&sprefix=the+unicorn+project+a+novel+about+developers+digital+disruption+and+thriving+in+the+age+of+data%2Caps%2C298&sr=8-1&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47)  
 <br><br>
 
-- **Data Science** <br>  
-<br>  
+- **Data Science** <br>
 ![enter image description here](https://m.media-amazon.com/images/I/51vyR8siJJL._SL500_.jpg)<br>  
 [Book Details](https://www.amazon.com.mx/Data-Science-John-D-Kelleher/dp/0262535432/ref=sr_1_9?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=JGNPXRZLZB7W&keywords=data+science&qid=1703023820&sprefix=data+scienc%2Caps%2C175&sr=8-9)  
 <br><br>
