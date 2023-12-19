@@ -173,8 +173,8 @@ A Craftsman's Guide to Software Structure and Design<br>
 - **Data Science** <br>  
 <br>  
 ![enter image description here](https://m.media-amazon.com/images/I/51vyR8siJJL._SL500_.jpg)<br>  
-[Book Details]()  
-<br>
+[Book Details](https://www.amazon.com.mx/Data-Science-John-D-Kelleher/dp/0262535432/ref=sr_1_9?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=JGNPXRZLZB7W&keywords=data+science&qid=1703023820&sprefix=data+scienc%2Caps%2C175&sr=8-9)  
+<br><br>
 
 ## Business & Careers
 - **Principles** <br>
