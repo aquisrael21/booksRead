@@ -160,7 +160,7 @@ A Craftsman's Guide to Software Structure and Design<br>
 
 <br><br>
 
-- **The Beginners Guide to Artificial Intelligence** <br>Demystifying the World of AI for Everyone<br>
+- **The Beginners Guide to Artificial Intelligence** <br>Demystifying the World of AI for Everyone
 ![enter image description here](https://m.media-amazon.com/images/I/51m-SzqjfYL._SL500_.jpg)<br>  
 [Book Details](https://www.amazon.com.mx/Beginners-Guide-Artificial-Intelligence-Demystifying/dp/B0BW2BX65S/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=38NZDVY8NWR34&keywords=The+Beginners+Guide+to+Artificial+Intelligence+Demystifying+the+World+of+AI+for+Everyone&qid=1695967301&sprefix=the+beginners+guide+to+artificial+intelligence+demystifying+the+world+of+ai+for+everyone%2Caps%2C286&sr=8-1&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47)  
 <br><br>
@@ -168,6 +168,12 @@ A Craftsman's Guide to Software Structure and Design<br>
 - **The Unicorn Project** <br> A Novel About Developers, Digital Disruption, and Thriving in the Age of Data
 ![enter image description here](https://m.media-amazon.com/images/I/51+3lvlXNuL._SL500_.jpg)<br>  
 [Book Details](https://www.amazon.com.mx/Unicorn-Project-Developers-Disruption-Thriving/dp/1942788762/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1X5VPDKKSQD5U&keywords=The+Unicorn+Project+A+Novel+About+Developers%2C+Digital+Disruption%2C+and+Thriving+in+the+Age+of+Data&qid=1695967501&sprefix=the+unicorn+project+a+novel+about+developers+digital+disruption+and+thriving+in+the+age+of+data%2Caps%2C298&sr=8-1&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47)  
+<br><br>
+
+- **Data Science** <br>  
+<br>  
+![enter image description here](https://m.media-amazon.com/images/I/51vyR8siJJL._SL500_.jpg)<br>  
+[Book Details](https://www.amazon.com.mx/Data-Science-John-D-Kelleher/dp/0262535432/ref=sr_1_9?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1TD3P5S9K2Z3O&keywords=Data+Science&qid=1703022738&sprefix=data+science%2Caps%2C235&sr=8-9)  
 <br>
 
 ## Business & Careers
@@ -199,6 +205,25 @@ Tesla, SpaceX, and the Quest for a Fantastic Future<br>
 Notes on Startups, or How to Build the Future<br>
 ![enter image description here](https://m.media-amazon.com/images/I/41UpV7crlHL._SL500_.jpg)<br>
 [Book Details](https://www.amazon.com.mx/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3KF9ITIP48HPL&keywords=Zero+to+One&qid=1658419436&sprefix=zero+to+one%2Caps%2C159&sr=8-1)
+<br><br>
+
+- **The Psychology of Money** <br>  
+Timeless Lessons on Wealth, Greed, and Happiness<br>  
+![enter image description here](https://m.media-amazon.com/images/I/51jRBz6Ug3L._SL500_.jpg)<br>  
+[Book Details](https://www.amazon.com.mx/Psychology-Money-Timeless-Lessons-Happiness/dp/0857197681/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3LPNAG65MFEKF&keywords=The+Psychology+of+Money&qid=1703022622&sprefix=the+psychology+of+money%2Caps%2C167&sr=8-1&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47)  
+<br><br>
+
+- **Blink** <br>  
+The Power of Thinking Without Thinking<br>  
+![enter image description here](https://m.media-amazon.com/images/I/417cu5MG5QL._SL500_.jpg)<br>  
+[Book Details](https://www.amazon.com.mx/Blink-Power-Thinking-Without/dp/0316010669/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=31OMHN27YSXXE&keywords=Blink+The+Power+of+Thinking+Without+Thinking&qid=1703022929&sprefix=blink+the+power+of+thinking+without+thinking%2Caps%2C202&sr=8-1&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47)  
+<br><br>
+
+- **Articulating Design Decisions** <br>  
+Communicate with Stakeholders, Keep <br>
+Your Sanity, and Deliver the Best User Experience<br>  
+![enter image description here](https://m.media-amazon.com/images/I/51BIa1PQtGS._SL500_.jpg)<br>  
+[Book Details](https://www.amazon.com.mx/Articulating-Design-Decisions-Communicate-Stakeholders/dp/1492079227/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1BV39IWSQ1PTQ&keywords=Articulating+Design+Decisions&qid=1703023044&sprefix=articulating+design+decisions%2Caps%2C340&sr=8-1&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47)  
 <br>
 
 ## Science Fiction
