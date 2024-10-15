@@ -224,7 +224,7 @@ Notes on Startups, or How to Build the Future<br>
 
 - **The Psychology of Money** <br>  
 Timeless Lessons on Wealth, Greed, and Happiness<br>  
-![enter image description here](https://m.media-amazon.com/images/I/51jRBz6Ug3L._SL500_.jpg)<br>  
+![enter image description here](https://m.media-amazon.com/images/I/51jRBz6Ug3L.jpg)<br>  
 [Book Details](https://www.amazon.com.mx/Psychology-Money-Timeless-Lessons-Happiness/dp/0857197681/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3LPNAG65MFEKF&keywords=The+Psychology+of+Money&qid=1703022622&sprefix=the+psychology+of+money%2Caps%2C167&sr=8-1&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47)  
 <br><br>
 
