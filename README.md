@@ -130,7 +130,13 @@ Master Hard Skills, Outsmart the Competition, and Accelerate Your Career<br>
  Why Skills Trump Passion in the Quest for Work You Love<br>
 ![enter image description here](https://m.media-amazon.com/images/I/51FteuQ37hL._SL500_.jpg)<br>
  [Book Details](https://www.amazon.com.mx/Good-They-Cant-Ignore-You/dp/1455509124/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2ZZWVXIVBE77F&dib=eyJ2IjoiMSJ9.e5Mbq5W_Spp7a6DbB-qpBBBdVnGWw1S4vf9V_NF25OXf__fUPnpcaenqjQ1DsACGMNbFr3nb3zDK9m5mCEop0G6snEvC9rgbfIuihjud7Z_RffEzaYFfY0oVPi-kKBU6RJs36UyB0DqdBuk4xSsR14vOxcPnXvZQXeDq0egVVw22qdsxp5H4joMzcFEMCLSVG4_5R1z8A2g4W1sofBUS51ING2zbpCxFxxv9Ivs0bqfOr1XAxG2kLw_e-V2ju-MKxcwLGPQcgArY0I3zaxHlLCZxET-ZQTDblSP_JZ3Utcw.2q27GXi0hIO7-dm2SpdFbbfF5rDUU9-oDoO3B6sgbS8&dib_tag=se&keywords=So+Good+They+Can%27t+Ignore+You&qid=1713726133&sprefix=so+good+they+can%27t+ignore+you%2Caps%2C161&sr=8-1&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47)
- <br>
+ <br><br>
+
+- **Slow Productivity** <br>
+The Lost Art of Accomplishment Without Burnout<br>
+![enter image description here](https://m.media-amazon.com/images/I/613KQRM2VOL._SL500_.jpg)<br>
+[Book Details](https://www.amazon.com.mx/Slow-Productivity-Accomplishment-Without-Burnout/dp/0593544854/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2ZZ038F5VFK8N&dib=eyJ2IjoiMSJ9.wlEUS_XT7zTzdKaWhQVSnHoZFEbHKA--JptVPCT48am15w7tggTu--U74TdkDxoNniylXXUmV__FZGZai4gxNuI8LLT3rkbMYggWtEYRp9mA5CnYXo3sfzBJhQq4o3tJLDhCvLa8AoYTGv4SjOCxxK_yGKqqxHjPsn1sRuX_CQr7DikXH3AjSMHi7KIBXnPO8BkUtLxyD-g5Sa0-2CC_Hob_7wn9TosZKTXQVcyinz6C5FDWY8byyo04f4sV0jggXqo9N3BdGTg8jsSE9dVXFkhj0nlZUSgB_D57qdWouE4.VHWVHpEyZzPKPAWFN6bzC0E5haZKC80ZxERu564hFyI&dib_tag=se&keywords=Slow+Productivity&qid=1729321384&sprefix=slow+productivity%2Caps%2C317&sr=8-1&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b)
+<br>
 
 ## Technology
 - **The Pragmatic Programmer: 20th Anniversary Edition, 2nd Edition** <br>
