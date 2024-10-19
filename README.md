@@ -191,6 +191,12 @@ A Novel About Developers, Digital Disruption, and Thriving in the Age of Data<br
 [Book Details](https://www.amazon.com.mx/Data-Science-John-D-Kelleher/dp/0262535432/ref=sr_1_9?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=JGNPXRZLZB7W&keywords=data+science&qid=1703023820&sprefix=data+scienc%2Caps%2C175&sr=8-9)  
 <br><br>
 
+- **Economics of Electricity** <br>
+Markets, Competition and Rules<br>
+![enter image description here](https://m.media-amazon.com/images/I/71HphidVCyL._SY466_.jpg)<br>
+[Book Details](https://www.amazon.com.mx/Economics-Electricity-Markets-Competition-Rules/dp/1316636623/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1F46U75IQSAQQ&dib=eyJ2IjoiMSJ9.bJlTj_NCwTTuo1XCUf8uZtIYl9NlpWuDdxT7cSGlWKPCrqacZEzVEs5xnh-wm1U7PM7gDtia2NczXjJh_aiKUoL1oMFLm6FDsEtdjVBQjPnJMR1e2VjiwthJIbfqefRA.KCAqBWoqFZy5ePwmhG1ymWKvWvhMXYfknjoSF4XvfaU&dib_tag=se&keywords=Economics+of+Electricity%3A+Markets%2C+Competition+and+Rules&qid=1729320739&sprefix=economics+of+electricity+markets+competition+and+rules%2Caps%2C134&sr=8-1)
+<br>
+
 ## Business & Careers
 - **Principles** <br>
 Life and Work<br>
@@ -239,6 +245,12 @@ Communicate with Stakeholders, Keep <br>
 Your Sanity, and Deliver the Best User Experience<br>  
 ![enter image description here](https://m.media-amazon.com/images/I/51BIa1PQtGS._SL500_.jpg)<br>  
 [Book Details](https://www.amazon.com.mx/Articulating-Design-Decisions-Communicate-Stakeholders/dp/1492079227/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Articulating+Design+Decisions&qid=1703023521&sr=8-1&ufe=app_do%3Aamzn1.fos.4e545b5e-1d45-498b-8193-a253464ffa47)  
+<br><br>
+
+- **$100M Offers** <br>
+How to Make Offers So Good People Feel Stupid Saying No<br>
+![enter image description here](https://m.media-amazon.com/images/I/41GqbVAnxeL._SL500_.jpg)<br>
+[Book Details](https://www.amazon.com.mx/100M-Offers-People-Stupid-Saying/dp/1737475715/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.bNwjzKvXE2d9AUdZMv88v5lAozPNu9imHLZ6J6Xrwu0-JVFMLJS2djNLo4dKXCvSDRRZMmaI_vyWIzZ5VFMnuhYgpkxMZ55pft0oVRG9ExgQU-SJ2bRhUKTEwSmpzoOHIFyzWZWc9eBqh3GvwZflJfR6LmvSAw_lVMURVNWvQxGBoa6_u587ZXTkIp4QfgEusMjqTZsiifvCjMWb9dSZcjvUcqi5FKuB0XEyPoZnjHEvu4DXiI9ManIUioWUEg4RekzYf_-TOg7e9pBpiTLnug0ewvOf_dieSiyRYxO2yls.XpTK8jqRwSRqfWQASjI1rZkf8I8APvs5QEzPQ3wJSFM&qid=1729320555&sr=8-1)
 <br>
 
 ## Science Fiction
